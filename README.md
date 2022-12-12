@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/Daniel-RRR/Patnic-Src">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-rrr&repo=MarkDownWikipedia=vision-friendly-dark&border_radius=20" />
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-rrr&repo=MarkDownWikipedia&theme=vision-friendly-dark&border_radius=20" />
 </a>
   
 
