@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/Daniel-RRTM/MarkDownWikipedia">
-  <img width="400" height="500" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-rrtm&repo=BackTheDuckUp&theme=vision-friendly-dark&border_radius=20" />
+  <img width="400" height="600" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-rrtm&repo=BackTheDuckUp&theme=vision-friendly-dark&border_radius=20" />
 </a>
   
 
