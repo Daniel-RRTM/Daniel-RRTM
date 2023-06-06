@@ -53,7 +53,7 @@
 
  </a>
 <a href="https://github.com/anuraghazra/convoychat">
-   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rrtm&layout=compact&theme=vision-friendly-dark&exclude_repo=Patnic-IDE,Patnic-CLI&border_radius=20" />
+   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rrtm&layout=compact&theme=vision-friendly-dark&exclude_repo=[Patnic-IDE,Patnic-CLI,Patnic-Docs]&border_radius=20" />
 
   </a>
 
