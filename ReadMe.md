@@ -65,7 +65,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-rrtm&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_rank=true&border_radius=20" />
  </a>
 <a href="https://github.com/anuraghazra/convoychat">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rrtm&langs_count=10&hide=html,css,LLVM&layout=compact&theme=vision-friendly-dark&border_radius=20" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rrtm&langs_count=10&hide=html,css,LLVM,GAP&layout=compact&theme=vision-friendly-dark&border_radius=20" />
   </a>
 </p>
 
