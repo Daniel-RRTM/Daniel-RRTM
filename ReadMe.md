@@ -60,15 +60,14 @@
   
 
 
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-rrtm&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_rank=true&border_radius=20" />
-
  </a>
 <a href="https://github.com/anuraghazra/convoychat">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rrtm&layout=compact&theme=vision-friendly-dark&exclude_repo=Patnic-IDE,Patnic-CLI&border_radius=20" />
-
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rrtm&langs_count=10&hide=html,css,LLVM&layout=compact&theme=vision-friendly-dark&border_radius=20" />
   </a>
-
+</p>
 
 
 ----  
